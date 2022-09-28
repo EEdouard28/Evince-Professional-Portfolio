@@ -8,6 +8,7 @@ To visit site, navigate to the following HTTP address:
 
 
 ## Screenshot
+[screencapture-file-Users-studioimac-Desktop-bootcamp-Homework-Repos-Evince-Professional-Portfolio-index-html-2022-09-27-21_26_03.pdf](https://github.com/EEdouard28/Evince-Professional-Portfolio/files/9660614/screencapture-file-Users-studioimac-Desktop-bootcamp-Homework-Repos-Evince-Professional-Portfolio-index-html-2022-09-27-21_26_03.pdf)
 
 ## Test
 1. Visit site at 
