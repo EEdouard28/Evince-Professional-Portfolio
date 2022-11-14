@@ -137,11 +137,12 @@ p {
 }
 
 .projects {
-    background-color: rgb(255, 255, 255);
+    /* background-color: rgb(255, 255, 255); */
+    background-color: transparent;
     height: 325px;
     width: 325px;
     align-items: center;
-    border: solid 4px rgb(75, 83, 176);
+    /* border: solid 4px rgb(75, 83, 176); */
     margin-top: 30px;
     overflow-y: hidden;
 
